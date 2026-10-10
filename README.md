@@ -51,7 +51,7 @@ sudo dpkg --add-architecture i386
 
 sudo apt update
 
-sudo apt install wine
+sudo apt install wine wine32
 
 Download Supermium at https://www.supermium.net/
 
