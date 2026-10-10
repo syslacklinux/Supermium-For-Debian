@@ -1,6 +1,6 @@
 <img width="1918" height="408" alt="Screenshot From 2026-10-10 19-50-09" src="https://github.com/user-attachments/assets/61204829-b280-4b4e-9e06-0b5fb761b5ce" />
 
-# Supermium-For-Debian
+# Supermium For Debian
 An up-to-date Chromium-based web browser compatible with Debian 7 (Wheezy), 8 (Jessie), 9 (Stretch), 10 (Buster), 11 (Bullseye), and newer.
 
 System Requirements
