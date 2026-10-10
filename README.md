@@ -18,9 +18,13 @@ Wine is Required
 Recommended
 
 • Processor (CPU): Intel Core 2 Duo / AMD Athlon 64 X2 (or any dual-core 64-bit CPU)
+
 • Memory (RAM): 2 GB RAM (Linux will take ~500 MB, Wine needs some overhead, and Chromium requires the rest)
+
 • Graphics (GPU): Any graphics card with OpenGL 2.1 support (integrated Intel HD graphics from 2010 onwards work fine)
+
 • Storage: 1 GB of free space
+
 • Operating System: Debian 12 (Bookworm) or higher and Wine 8.0 or higher
 
 To install supermium on Wine
