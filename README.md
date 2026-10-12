@@ -58,3 +58,5 @@ Download Supermium at https://www.supermium.net/
 If 64-bit Setup Does not work for you. You need 32-bit Setup
 
 Then install supermium in wine
+
+NOTE: Debian 6 (Squeeze) and lower Cannot install supermium on wine even 32 bit supermium
